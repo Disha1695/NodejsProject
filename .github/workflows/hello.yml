@@ -9,6 +9,5 @@ jobs:
     steps:
     - name: Say hello to everyone
       run: echo "hello guys"
-    - name: install dependencies
-      run: npm install
+    
     
